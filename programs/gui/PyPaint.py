@@ -1,5 +1,7 @@
-from tkinter import *
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
 
+from tkinter import  *
 
 class Paint(Frame):
 
